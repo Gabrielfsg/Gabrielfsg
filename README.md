@@ -14,3 +14,6 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="msql" width="20" height="20"/></span>
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" width="20" height="20"/></span>
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gondim-34b5541b3/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:profissional.gabrielg@gmail.com)](mailto:profissional.gabrielg@gmail.com)
