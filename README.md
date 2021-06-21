@@ -7,7 +7,6 @@
 Technology enthusiast always seeking to learn and explore this infinite universe. 🚀
 
 
-<br>
 - 👨‍💻 I’m currently working on [Celula Web](https://celulaweb.com.br/)
 - My Stack:
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="20" height="20"/></span>
