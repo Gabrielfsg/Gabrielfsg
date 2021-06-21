@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabrielfsg" alt="Gabrielfsg" /> </p>
 <h3 align="center">A Web and Mobile Developer!!!</h3>
 
+Technology enthusiast always seeking to learn and explore this infinite universe.
 
 - 👨‍💻 I’m currently working on [Celula Web](https://celulaweb.com.br/)
 - My Stack:
