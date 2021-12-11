@@ -7,7 +7,7 @@
 Technology enthusiast always seeking to learn and explore this infinite universe. 🚀
 
 
-- 👨‍💻 I’m currently working on [Celula Web](https://celulaweb.com.br/)
+- 👨‍💻 I’m currently working on [Reply](https://www.linkedin.com/company/reply/mycompany/verification/)
 - My Stack:
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="20" height="20"/></span>
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="20" height="20"/></span>
