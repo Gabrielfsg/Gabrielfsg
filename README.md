@@ -10,7 +10,7 @@
 </div>
 
 
-Technology enthusiast always seeking to learn and explore this infinite universe. 🚀
+<span>Technology enthusiast always seeking to learn and explore this infinite universe. 🚀</span>
 
 - My Stack:
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="20" height="20"/></span>
