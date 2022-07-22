@@ -3,6 +3,12 @@
 <h3 align="center">A Web and Mobile Developer!!!</h3>
 <br>
 
+<div align="center">
+  <a href="https://github.com/Gabrielfsg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielfsg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfsg&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 
 Technology enthusiast always seeking to learn and explore this infinite universe. 🚀
 
