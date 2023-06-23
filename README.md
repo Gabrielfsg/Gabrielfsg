@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Gabriel Fernandes :smiley: </h1>
+<h1 align="center">Olá, Meu nome é Gabriel Fernandes :smiley: </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabrielfsg" alt="Gabrielfsg" /> </p>
-<h3 align="center">A Web and Mobile Developer!!!</h3>
+<h3 align="center">Sou desenvolvedor FullStack!!!</h3>
 <br>
 
 <div align="center">
